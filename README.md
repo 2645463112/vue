@@ -1,6 +1,6 @@
 # ele-api
 
-> A Vue.js project
+> 第一次vue实战项目
 
 ## Build Setup
 
